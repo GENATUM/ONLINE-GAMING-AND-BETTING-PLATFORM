@@ -1,7 +1,12 @@
 # ONLINE-GAMING-AND-BETTING-PLATFORM
 BLOCKCHAIN GAMING PLATFORM
 
-SOURCE CODE:  Explorer 1: https://etherscan.io/token/0x0fb1660419476634609bd6cac0d13d7eb7e6ce24
+SOURCE CODE: 
+
+Explorer 1: https://etherscan.io/token/0x0fb1660419476634609bd6cac0d13d7eb7e6ce24
+
+
+
 Explorer 2: https://ethplorer.io/address/0x0fb1660419476634609bd6cac0d13d7eb7e6ce24
 
 Social media: 
